@@ -1,1 +1,1 @@
-Unresponsive vs responsive web page using media querie for devices with screen width less than 640px.
+Unresponsive vs responsive web page using media query for devices with screen width less than 640px.
